@@ -1,0 +1,128 @@
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 15:37:31 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 15:37:43 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,patriot
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 15:37:53 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,the patriot
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 15:52:02 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,patriot
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 15:52:14 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,the patriot
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Sun Jul 23 2017 16:05:18 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,the patriot
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Mon Jul 24 2017 16:55:12 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Mon Jul 24 2017 17:45:54 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,love
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
