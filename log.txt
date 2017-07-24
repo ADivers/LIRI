@@ -126,3 +126,35 @@ Rotten Tomatoes Rating: undefined
 Rotten Tomatoes URL: undefined
  =============== LOG ENTRY END ===============
  
+=============== LOG ENTRY BEGIN ===============
+Mon Jul 24 2017 18:12:04 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,love
+DATA OUTPUT:
+Title: Guardians of the Galaxy Vol. 2
+Year: 2017
+IMDb Rating: 8.1
+Country: USA
+Language: English
+Plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/guardians_of_the_galaxy_vol_2/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Mon Jul 24 2017 18:12:14 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/bin/node,/Users/alexanderdivers/dev_class/LIRI/liri.js,omdb,patriot
+DATA OUTPUT:
+Title: Guardians of the Galaxy Vol. 2
+Year: 2017
+IMDb Rating: 8.1
+Country: USA
+Language: English
+Plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/guardians_of_the_galaxy_vol_2/
+ =============== LOG ENTRY END ===============
+ 

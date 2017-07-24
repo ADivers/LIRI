@@ -104,10 +104,11 @@ function spotifyThisSong(value) {
 // ***************************** omdbThis function
 function movieThis(value) {
     if (value == null) {
-        value = 'wargames';
+        value = 'patriot';
     }
-    // http://www.omdbapi.com/?apikey=40e9cece&
-    request('http://www.omdbapi.com/?apikey=40e9cece&' + value + '&tomatoes=true&r=json', function(error, response, body) {
+    // 40e9cece
+    // http://www.omdbapi.com/?i=tt3896198&apikey=8df48ec5
+    request('http://www.omdbapi.com/?i=tt3896198&apikey=40e9cece&' + value + '&tomatoes=true&r=json', function(error, response, body) {
         if (!error && response.statusCode == 200) {
             jsonBody = JSON.parse(body);
             console.log(' ');
@@ -142,10 +143,10 @@ function random() {
         } else {
             var dataArr = data.split(',');
             if (dataArr[0] === 'spotify') {
-                spotifyThis(dataArr[1]);
+                spotifyThisSong(dataArr[1]);
             }
             if (dataArr[0] === 'omdb') {
-                omdbThis(dataArr[1]);
+                movieThis(dataArr[1]);
             }
         }
     })
